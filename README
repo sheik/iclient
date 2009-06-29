@@ -1,0 +1,3 @@
+iclient is an IRC client class written in C++ with boost
+
+Currently utilizes asio, will soon use Spirit as well
